@@ -1,7 +1,7 @@
 # Banking_Customer_segment_Analysis
 Bank Customer Segmentation &amp; Credit Analysis Dashboard (Excel)
 
-Problem Statement
+### Problem Statement
 
 The bank aims to understand customer behavior across different segments to:
 
